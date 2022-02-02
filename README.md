@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadellh&show_icons=true&count_private=true&theme=discord_old_blurple )](https://github.com/anuraghazra/github-readme-stats)          
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadellh&layout=compact&langs_count=5&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadellh&show_icons=true&count_private=true&theme=discord_old_blurple )](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fadellh&layout=compact&langs_count=5&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
