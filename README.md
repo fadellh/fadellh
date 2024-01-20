@@ -3,10 +3,12 @@
 👋 Hey, I'm a Back-end Engineer driven by sheer excitement for coding and automation! I find pure joy in the dynamic world of crafting innovative products and continually enhancing them for a seamless user experience.
 
 ### 💫 About Me:
-🔭 I’m currently working with Go, Python, Devops and Data Stuff. <br>
-🌱 I’m currently learning Backend, Data Engineering and CS Fundamental.<br>
+👨🏻‍💻 I’m currently working with Go, Python, Devops and Data Stuff. <br>
+❄️ I’m currently learning Backend, Data Engineering and CS Fundamental.<br>
 💬 Ask me about anything tech related, I am happy to help [here](https://www.linkedin.com/in/fadellh/)
   <br>
+
+[![](https://visitcount.itsvg.in/api?id=fadellh&icon=5&color=1)](https://visitcount.itsvg.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,8 +24,6 @@
 <br/>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/fadellh_28?theme=light&font=Alef&ext=activity)
-
-
 
 
 <!--
